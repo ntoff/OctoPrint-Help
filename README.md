@@ -1,7 +1,7 @@
 ## OctoPrint Help
 
 This is an attempt at some sort of quick UI introduction for new users.
-
+* [Main UI](./ui.md)
 * [Sidebar](./sidebar.md)
 * [Tabs](./tabs.md)
 
